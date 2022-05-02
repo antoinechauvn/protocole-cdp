@@ -25,7 +25,7 @@ Quand le protocole CDP est activé, il envoie les informations suivantes sur tou
 
 * Device ID : Le hostname de l’équipement
 * Entry address(es): Adresses IP présentes sur l’équipemen
-* * Platform: Le modèle de l’équipement
+* Platform: Le modèle de l’équipement
 * Capabilities: Type d’équipement (switch/routeur)
 * Interface :Interface physique où est branché cet équipement
 * Port ID : Interface physique de l’interconnexion sur l’équipement en question
