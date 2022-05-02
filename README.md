@@ -37,10 +37,9 @@ Quand le protocole CDP est activé, il envoie les informations suivantes sur tou
 
 
 ## Caractéristiques de Link Layer Discovery Protocol
-Le protocole LLDP (Link Layer Discovery Protocol)
-
-protocole standardisé IEEE 802.AB
-désactivé par défaut sur les équipements Cisco
+Le protocole LLDP (Link Layer Discovery Protocol):
+* protocole standardisé IEEE 802.AB
+* désactivé par défaut sur les équipements Cisco
 
 LLDP c’est le protocole. Il envoie des trames LLDPDU pour communiquer.
 Dans la LLDPDU, nous y trouvons des TLV ( Type – Length – Value ).
