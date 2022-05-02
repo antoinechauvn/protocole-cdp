@@ -44,8 +44,8 @@ Le protocole LLDP (Link Layer Discovery Protocol):
 LLDP c’est le protocole. Il envoie des trames LLDPDU pour communiquer.
 Dans la LLDPDU, nous y trouvons des TLV ( Type – Length – Value ).
 Les TLV contiennent les informations ( Chassis ID , Port ID , TTL TLV et bien d’autre )
+<br>
 LLDP-MED ( LLDP – Media End Point ) est une extension du protocole LLDP.
-
 Le LLDP-MED a été créé afin d’obtenir plus d’information sur les équipements terminaux ( PoE, VOIP, etc … )
 
 Le protocole CDP a été créé avant qu’il y ait un protocole normalisé. LLDP s’est énormément inspiré du protocole CDP. Au niveau des lignes de commandes, il suffit de mettre “LLDP” au lieu de “CDP”.
